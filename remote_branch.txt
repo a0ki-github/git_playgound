@@ -1,4 +1,5 @@
 リモートからブランチを作成してみた（2回目）
 
 追記：ローカルから編集してみた
-add from remote_hoge
+あああ
+from local
